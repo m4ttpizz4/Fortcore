@@ -1,2 +1,2 @@
-# Fortcore
-Site artistico dedicado a Fortcore.
+## Fortcore
+Site artístico dedicado a Fortcore. 🏖️🌵
